@@ -274,7 +274,7 @@
         "brand": "OtterBox",
         "merchantInfo": "Ships from and sold by Re-Com.",
         "customerReview": "4.4 out of 5 stars",
-        "customerReviewCount": 1067,
+        "customerReviewCount": 1068,
         "boughtInfo": "500+ bought in past month",
         "answeredQuestionsCount": 0,
         "editorialReviews": [],
@@ -283,10 +283,12 @@
         "deliveryMessages": [
             "FREE delivery Thursday, December 5 on orders shipped by Amazon over $35",
             "FREE delivery Thursday, December 5 on orders shipped by Amazon over $35",
-            "Or Prime members get FREE delivery Tomorrow, November 30. Order within 6 hrs 57 mins. Join Prime",
-            "FREE delivery Monday, December 9",
-            "FREE delivery Monday, December 9.",
-            "Or fastest delivery Tomorrow, November 30. Order within 6 hrs 42 mins."
+            "Or fastest delivery Tuesday, December 3. Order within 16 hrs 3 mins",
+            "FREE delivery Friday, December 6",
+            "FREE delivery Friday, December 6.",
+            "Or fastest delivery Tomorrow, November 30. Order within 5 hrs 33 mins.",
+            "FREE pickup Friday, December 6 on orders shipped by Amazon over $35",
+            "Or fastest pickup Tuesday, December 3. Order within 16 hrs 3 mins"
         ],
         "climatePledgeFriendly": {
             "present": false,
@@ -317,56 +319,100 @@
         ],
         "productInformation": [
             {
-                "name": "Product Dimensions",
-                "value": "6.05 x 3.06 x 0.56 inches"
+                "name": "Manufacturer",
+                "value": "OtterBox"
             },
             {
-                "name": "Item Weight",
-                "value": "1.92 ounces"
-            },
-            {
-                "name": "ASIN",
-                "value": "B0B7CBZZ16"
-            },
-            {
-                "name": "Item model number",
-                "value": "77-89288"
+                "name": "UPC",
+                "value": "840262389020"
             },
             {
                 "name": "Customer Reviews",
-                "value": "4.4 4.4 out of 5 stars 1,067 ratings 4.4 out of 5 stars"
+                "value": "4.4 4.4 out of 5 stars 1,068 ratings 4.4 out of 5 stars"
             },
             {
                 "name": "Best Sellers Rank",
                 "value": "#544 in Cell Phones \u0026 Accessories (See Top 100 in Cell Phones \u0026 Accessories) #99 in Cell Phone Basic Cases"
             },
             {
-                "name": "Date First Available",
-                "value": "September 6, 2022"
+                "name": "ASIN",
+                "value": "B0B7CBZZ16"
             },
             {
-                "name": "Manufacturer",
+                "name": "Model Name",
+                "value": "Symmetry Series+"
+            },
+            {
+                "name": "Package Type",
+                "value": "FFP"
+            },
+            {
+                "name": "Model Number",
+                "value": "77-89288"
+            },
+            {
+                "name": "Brand Name",
                 "value": "OtterBox"
             },
             {
-                "name": "Country of Origin",
-                "value": "China"
+                "name": "Built-In Media",
+                "value": "Case Only"
             },
             {
-                "name": "Brand",
-                "value": "OtterBox"
+                "name": "Finish Type",
+                "value": "Matte"
             },
             {
-                "name": "Compatible Phone Models",
-                "value": "iPhone 14 Pro Max"
+                "name": "Material Type",
+                "value": "Polycarbonate"
+            },
+            {
+                "name": "Item Dimensions",
+                "value": "6.05 x 3.06 x 0.56 inches"
+            },
+            {
+                "name": "Pattern",
+                "value": "Case Only"
+            },
+            {
+                "name": "Theme",
+                "value": "No Theme"
+            },
+            {
+                "name": "Form Factor",
+                "value": "Basic Case"
             },
             {
                 "name": "Color",
                 "value": "Clear/Glitter"
             },
             {
+                "name": "Additional Features",
+                "value": "Magnetic"
+            },
+            {
+                "name": "Embellishment Feature",
+                "value": "Glitter"
+            },
+            {
+                "name": "Screen Size",
+                "value": "6.7 Inches"
+            },
+            {
                 "name": "Compatible Devices",
                 "value": "iPhone 14 Pro Max"
+            },
+            {
+                "name": "Water Resistance Level",
+                "value": "Not Water Resistant"
+            },
+            {
+                "name": "Compatible Phone Models",
+                "value": "iPhone 14 Pro Max"
+            },
+            {
+                "name": "Brand",
+                "value": "OtterBox"
             },
             {
                 "name": "Material",
