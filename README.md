@@ -1,7 +1,7 @@
 # AmazonScraper
 
 1. Đăng ký 1 tài khoản tại website crawbase: https://crawlbase.com/
-2. Đăng nhập và lâý token của tài khoản tại đường dẫn https://crawlbase.com/docs/crawling-api/#other-notes (token để xác minh rằng bạn đã đăng ký tài khoản của bên crawbase, đồng thời cũng là điều kiện cần để có thể sử dụng các api để crawl data từ bên thứ 3 này).
+2. Đăng nhập và lấy token của tài khoản tại đường dẫn https://crawlbase.com/docs/crawling-api/#other-notes (token để xác minh rằng bạn đã đăng ký tài khoản của bên crawbase, đồng thời cũng là điều kiện cần để có thể sử dụng các api để crawl data từ bên thứ 3 này).
 3. Mở thư mục project này trong visual studio code, tạo file môi trường .env và dán token vào theo định dạng sau: TOKEN= 'your_token' (With no ' ').
 4. Mở cửa sổ terminal.
 5. Gõ vào terminal 2 lệnh sau:
